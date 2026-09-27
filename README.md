@@ -1,0 +1,1 @@
+# static-isp-proxy-comparison
